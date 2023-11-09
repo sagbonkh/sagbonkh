@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Sidney Agbonkhese 👋
+I am an accomplished Full Stack Developer with a Bachelor's in Computing Science and an AWS-certified cloud Practitioner. I am committed to leveraging my skills to drive innovation and success in future projects.
 
-<!--
-**sagbonkh/sagbonkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A Little More About Me
+  ```
+  const sidney = {
+    pronouns: "he" | "him",
+    code: [Javascript, Typescript, HTML, CSS, Python, Java, C/C++, PHP],
+    tools: [React, NodeJS, Django, MySQL, WordPress, NextJS, Docker],
+    architecture: ["microservices", "event-driven", "design system pattern"],
+   
+    challenge: "I am currently working on a social media web app named Codex focused on React, NextJS, and typescript"
+}
+```
