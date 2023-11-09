@@ -12,3 +12,4 @@ I am an accomplished Full Stack Developer with a Bachelor's in Computing Science
     challenge: "I am currently working on a social media web app named Codex focused on React, NextJS, and typescript"
 }
 ```
+I enjoy connecting with diverse individuals, so feel free to reach out and say hello—I would be delighted to get to know you better! :)
