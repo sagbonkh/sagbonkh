@@ -1,7 +1,7 @@
 ### Hi there, I'm Sidney Agbonkhese 👋
 [![Linkedin Badge](https://img.shields.io/badge/-sagbonkh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sagbonkh/)
 
-I am an accomplished Full Stack Developer with a Bachelor's in Computing Science and an AWS-certified cloud Practitioner. I am committed to leveraging my skills to drive innovation and success in future projects.
+I am an accomplished Full Stack Developer with a Bachelor's in Computing Science and an AWS-certified cloud Practitioner. While I am happy working on both, I have a slight preference for working on Web applications as opposed to Mobile apps. I am committed to leveraging my skills to drive innovation and success in future projects.
 
 ### A Little More About Me
   ```
